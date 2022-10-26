@@ -29,3 +29,9 @@ Icon Theme: Vimix Amethyst Dark
 Font: Monofur 
 
 Add rofi themes to /usr/share/rofi/themes and select rounded-purple-dark.rasi on your rofi-theme-selecter. 
+
+###Screenshots
+
+![Leftwm Purple 2](https://user-images.githubusercontent.com/116481678/198120648-18570297-98c1-46f4-b8b5-8ec1d0302a8a.png)
+
+![Leftwm Purple 1](https://user-images.githubusercontent.com/116481678/198120844-4f169c4c-5c49-42f4-a08a-64474c390b35.png)
