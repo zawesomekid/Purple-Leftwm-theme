@@ -30,7 +30,7 @@ Font: Monofur
 
 Add rofi themes to /usr/share/rofi/themes and select rounded-purple-dark.rasi on your rofi-theme-selecter. 
 
-###Screenshots
+*Screenshots*
 
 ![Leftwm Purple 2](https://user-images.githubusercontent.com/116481678/198120648-18570297-98c1-46f4-b8b5-8ec1d0302a8a.png)
 
